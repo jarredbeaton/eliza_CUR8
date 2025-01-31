@@ -1,0 +1,6 @@
+plugins need to be built using 
+pnpm build 
+inside the plugin folder
+
+when a new plugin is added, it needs adding by running this command:
+pnpm install --no-frozen-lockfile
